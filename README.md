@@ -3,7 +3,7 @@
 
 A simple, interactive investment calculator built with React and Vite. This application allows users to input investment parameters and view a year-by-year breakdown of their investment growth.
 
----
+
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@ A simple, interactive investment calculator built with React and Vite. This appl
 - **Yearly Breakdown**: Displays a table showing yearly investment value, interest earned, total interest, and invested capital.
 - **Responsive Design**: Ensures usability across various devices and screen sizes.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -21,7 +21,7 @@ A simple, interactive investment calculator built with React and Vite. This appl
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Programming language for web development.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – Styling language for web pages.
 
----
+
 
 ## 📦 Installation
 
@@ -53,7 +53,7 @@ A simple, interactive investment calculator built with React and Vite. This appl
 
    Visit [http://localhost:5173](http://localhost:5173) to view the application.
 
----
+
 
 ## 📁 Project Structure
 
@@ -75,13 +75,13 @@ investment-calculator-react/
 └── README.md
 ```
 
----
+
 
 ## 📄 License
 
 This project is licensed under the [MIT License](https://github.com/KakaSena/investment-calculator-react/blob/main/LICENSE). Feel free to use and modify it as per your needs.
 
----
+
 
 ## 🙏 Acknowledgments
 
